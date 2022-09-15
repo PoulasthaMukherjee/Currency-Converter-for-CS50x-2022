@@ -59,4 +59,8 @@ function getExchangeRate(){
     }).catch(() =>{
         exchangeRateTxt.innerText = "\u26A0 Check your internet connection";
     });
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> eb1024f322954c14df4c2e242bd940514b711ce3
