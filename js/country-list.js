@@ -158,8 +158,4 @@ let country_code = {
     "ZAR" : "ZA",
     "ZMK" : "ZM",
     "ZWD" : "ZW"
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> eb1024f322954c14df4c2e242bd940514b711ce3

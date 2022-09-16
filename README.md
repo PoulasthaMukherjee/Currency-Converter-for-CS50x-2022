@@ -2,11 +2,7 @@
 ## Video Demo:  
 <https://youtu.be/JVr8gjHe8qU>
 ## Description:  
-<<<<<<< HEAD
-This project is a web application based on HTML, CSS and JavaScript, that converts currency of differnt countries.
-=======
 This project is a web application based on JavaScript, CSS and HTML, that converts currency of differnt countries.
->>>>>>> eb1024f322954c14df4c2e242bd940514b711ce3
 
 The application is named Currency Converter for CS50x 2022 and simply put, it takes an input value as the amount which is to be converted and converts it from one form of currency to another, based on the user's choice. The user can change the amount they want to check the conversion rates for, anytime. The currencies can also be inverted with the help of a button by which one can check conversion rates the other way round.
 
